@@ -1,0 +1,14 @@
+D:\projects\C#\TypesOfSorting\TypesOfSorting\bin\Debug\net6.0\TypesOfSorting.exe
+D:\projects\C#\TypesOfSorting\TypesOfSorting\bin\Debug\net6.0\TypesOfSorting.deps.json
+D:\projects\C#\TypesOfSorting\TypesOfSorting\bin\Debug\net6.0\TypesOfSorting.runtimeconfig.json
+D:\projects\C#\TypesOfSorting\TypesOfSorting\bin\Debug\net6.0\TypesOfSorting.dll
+D:\projects\C#\TypesOfSorting\TypesOfSorting\bin\Debug\net6.0\TypesOfSorting.pdb
+D:\projects\C#\TypesOfSorting\TypesOfSorting\obj\Debug\net6.0\TypesOfSorting.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\C#\TypesOfSorting\TypesOfSorting\obj\Debug\net6.0\TypesOfSorting.AssemblyInfoInputs.cache
+D:\projects\C#\TypesOfSorting\TypesOfSorting\obj\Debug\net6.0\TypesOfSorting.AssemblyInfo.cs
+D:\projects\C#\TypesOfSorting\TypesOfSorting\obj\Debug\net6.0\TypesOfSorting.csproj.CoreCompileInputs.cache
+D:\projects\C#\TypesOfSorting\TypesOfSorting\obj\Debug\net6.0\TypesOfSorting.dll
+D:\projects\C#\TypesOfSorting\TypesOfSorting\obj\Debug\net6.0\refint\TypesOfSorting.dll
+D:\projects\C#\TypesOfSorting\TypesOfSorting\obj\Debug\net6.0\TypesOfSorting.pdb
+D:\projects\C#\TypesOfSorting\TypesOfSorting\obj\Debug\net6.0\TypesOfSorting.genruntimeconfig.cache
+D:\projects\C#\TypesOfSorting\TypesOfSorting\obj\Debug\net6.0\ref\TypesOfSorting.dll
