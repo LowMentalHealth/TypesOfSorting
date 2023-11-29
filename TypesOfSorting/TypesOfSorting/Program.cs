@@ -236,8 +236,41 @@ class Program
             }
         }
     }
+    // Сортировка слиянием
 
-    static void Main(string[] args)
+
+    public static int[] Merge_Sort(int[] arr1, int[] arr2)
+    {
+        int a = 0, b = 0;
+        int[] merged = new int[arr1.Length + arr2.Length];
+
+        for (int i = 0; i < arr1.Length + arr2.Length; i++)
+        {
+            if (b < arr2.Length && a < arr1.Length)
+            {
+                if (arr1[a] > arr2[b] && b < arr2.Length)
+                {
+                    merged[i] = arr2[b++];
+                }
+                else
+                    merged[i] = arr1[a++];
+            }
+            else
+            {
+                if (b < arr2.Length)
+                {
+                    merged[i] = arr2[b++];
+                }
+                else
+                    merged[i] = arr1[a++];
+            }
+        }
+        return merged;
+    }
+
+
+
+static void Main(string[] args)
     {
         Int32[] arr = new Int32[100];
         q++;
